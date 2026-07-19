@@ -1,0 +1,9 @@
+Flask
+pandas
+numpy
+yfinance
+plotly
+ta
+requests
+gunicorn
+openai
